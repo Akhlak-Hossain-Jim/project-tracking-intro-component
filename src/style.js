@@ -127,7 +127,7 @@ export const AppBody = styled.main`
       &_content {
         margin: auto;
         @media (max-height: 800px) {
-          margin: 50px 0px 50px auto;
+          margin: 100px 26px 50px auto;
         }
         &__line {
           &1 {
